@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/tpcolorpickerjose/static/css/main.8c6904b2.css",
+    "main.js": "/tpcolorpickerjose/static/js/main.bf9befdd.js",
+    "static/js/787.c7f39ec8.chunk.js": "/tpcolorpickerjose/static/js/787.c7f39ec8.chunk.js",
+    "index.html": "/tpcolorpickerjose/index.html",
+    "main.8c6904b2.css.map": "/tpcolorpickerjose/static/css/main.8c6904b2.css.map",
+    "main.bf9befdd.js.map": "/tpcolorpickerjose/static/js/main.bf9befdd.js.map",
+    "787.c7f39ec8.chunk.js.map": "/tpcolorpickerjose/static/js/787.c7f39ec8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8c6904b2.css",
+    "static/js/main.bf9befdd.js"
+  ]
+}
